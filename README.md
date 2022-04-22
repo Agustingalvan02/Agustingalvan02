@@ -1,6 +1,6 @@
 ![enter image description here](https://imagizer.imageshack.com/img923/999/rYleq9.jpg)
 
-Soy Agustin Galván, soy de Córdoba Capital, tengo 25 años y actualmente me encuentro cursando el Proyecto final del bootcamp de Henry, soy full stack pero tengo mas orientación hacia Front End 
+Actualmente me encuentro cursando el proyecto final del bootcamp de Henry orientado en FullStack Developer. Mi deseo es poder explotar y extender mi potencial como desarrollador FrontEnd.
 
 
 ## Tecnologías
