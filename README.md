@@ -10,6 +10,7 @@
 
 ## Proyecto Individual de Pokémon
 https://pokemon-app-pi-lyart.vercel.app/
+https://www.youtube.com/watch?v=eIKl3cA0Lng
 ## Contacto
 
 **Mail**: agustingalvan02@gmail.com
