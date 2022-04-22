@@ -13,5 +13,6 @@ https://pokemon-app-pi-lyart.vercel.app/
 ## Contacto
 
 **Mail**: agustingalvan02@gmail.com
+
 **Linkedin**https://www.linkedin.com/in/agustin-galvan-30592715a/
 
