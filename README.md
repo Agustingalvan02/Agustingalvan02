@@ -9,9 +9,9 @@
 ![enter image description here](https://imagizer.imageshack.com/img923/8821/8nFM4e.png)
 
 ## Proyecto Individual de Pokémon
-https://pokemon-app-pi-lyart.vercel.app/
+**Link del proyecto deployado**: https://pokemon-app-pi-lyart.vercel.app/
 
-https://www.youtube.com/watch?v=eIKl3cA0Lng
+**Video demostrativo del proyecto**: https://www.youtube.com/watch?v=eIKl3cA0Lng
 ## Contacto
 
 **Mail**: agustingalvan02@gmail.com
